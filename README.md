@@ -14,7 +14,7 @@
 
 ```bash
 parasite911@kali:~$ whoami
-→ Mazen "parasite911" Obed
+→ "parasite911" 
 
 parasite911@kali:~$ cat interests.txt
 → Malware Development | Virus Analysis | Payload Generation
